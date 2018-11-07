@@ -21,7 +21,7 @@
             <asp:TextBox runat="server" ID="txtOutputFileName" Text="TestPrint001" Visible="false"></asp:TextBox>
             <asp:Label ID="lblMessage" runat="server" ForeColor="Red"></asp:Label>
             <br /><br />
-            <asp:Button runat="server" ID="cmdRefreshGrid" Text="Refresh THe Grid" />
+            <asp:Button runat="server" ID="cmdRefreshGrid" Text="Refresh The Grid AGAIN" />
             <telerik:RadGrid ID="RadGrid1" runat="server" DataSourceID="SqlDataSource3" AutoGenerateColumns="false" Width="50%">
                         <MasterTableView DataSourceID="SqlDataSource3" TableLayout="Fixed" AllowSorting="false" AllowFilteringByColumn="false">
                             <Columns>
