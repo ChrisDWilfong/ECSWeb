@@ -1,0 +1,11 @@
+﻿<?xml version="1.0"?>
+<!-- 
+  Visual Studio global web project settings.
+-->
+<VisualWebDeveloper>
+
+  <comReferences>
+    <reference Name="interop.bartender" ID="{D58562C1-E51B-11CF-8941-00A024A9083F}\11.0\0"/>
+    <reference Name="interop.bartenderprintclientwps" ID="{5CB6226B-F4EF-4E32-94E7-198D570DE19C}\1.0\0"/>
+  </comReferences>
+</VisualWebDeveloper>
