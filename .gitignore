@@ -3,3 +3,8 @@
 ################################################################################
 
 /.vs/config/applicationhost.config
+/.vs/ECSWeb/v15/Server/sqlite3/storage.ide-wal
+/.vs/ECSWeb/v15/Server/sqlite3/storage.ide-shm
+/.vs/ECSWeb/v15/Server/sqlite3/storage.ide
+/.vs/ECSWeb/v15/Server/sqlite3/db.lock
+/.vs/ECSWeb/v15/.suo
